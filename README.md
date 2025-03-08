@@ -13,6 +13,8 @@
 ![50508ef8bf32171093234056a18c842c](https://github.com/user-attachments/assets/0633a286-a49d-4521-802f-86d7b4bec558)
 ![5696b9515b24416d9f01c3ef393ea2b9](https://github.com/user-attachments/assets/a1ef1714-4abb-43f7-9304-434387bb859b)
 ![71b959c907aa89dfcf1e0f17e40215f6](https://github.com/user-attachments/assets/42f2ccc4-a204-469d-94fd-39dc69126d08)
+![image](https://github.com/user-attachments/assets/a7cf4135-a49e-4f84-975f-2b0a235d5534)
+![image](https://github.com/user-attachments/assets/93c41252-157a-4ff0-9d6a-025cf3196c8e)
 
 
 ## 安装教程
