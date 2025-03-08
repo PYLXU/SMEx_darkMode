@@ -183,6 +183,10 @@ option {
     color: rgba(255, 255, 255, 0.5) !important;
     background-color: transparent !important;
 }
+
+.miniMode .bottom {
+    background: #161616!important;
+}
 `;
 
 
