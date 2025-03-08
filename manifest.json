@@ -2,7 +2,7 @@
   "packageId": "darkMode",
   "extName": "主界面深色模式",
   "uiName": "主界面深色模式",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "entries": [
     "function.js",
     "ui_css.js",
