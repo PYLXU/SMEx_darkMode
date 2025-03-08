@@ -187,6 +187,10 @@ option {
 .miniMode .bottom {
     background: #161616!important;
 }
+
+.right #updateInfo {
+    background: #161616!important;
+}
 `;
 
 
