@@ -151,6 +151,38 @@ option {
     background: black;
     border: 1px solid #353535;
 }
+
+.context-menu {
+    background-color: #121212;
+    box-shadow: rgba(0, 0, 0, 0.16) 0 10px 15px, rgba(0, 0, 0, 0.16) 0 0 15px;
+    border: solid 1px rgba(255, 255, 255, 0.05);
+}
+
+.context-menu .item {
+    background-color: transparent;
+    color: #fff;
+}
+
+.context-menu .item::before {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.context-menu .item:hover, .context-menu .item-focused {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+.context-menu .item:not(.sub):active {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+.context-menu .separator {
+    border-top: solid 1px rgba(255, 255, 255, 0.05);
+}
+
+.context-menu .disabled {
+    color: rgba(255, 255, 255, 0.5) !important;
+    background-color: transparent !important;
+}
 `;
 
 
