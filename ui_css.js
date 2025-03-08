@@ -6,7 +6,7 @@ body {
 }
 
 body .right #musicListContainer .tableContainer table td>m {
-    background: #043255;
+    background: #043255!important;
 }
 
 .right #rightPlaceholder {
@@ -146,7 +146,11 @@ option {
 #extensionShopPage #extensionShopContainer>div {
     background: #141414!important;
 }
-
+    
+#dropTipContainer #dropTip {
+    background: black;
+    border: 1px solid #353535;
+}
 `;
 
 
